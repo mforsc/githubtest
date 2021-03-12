@@ -18,7 +18,7 @@
                         <small>Author</small>
                     </h1>
 
-                </div>
+                </div> j
             </div>
             <!-- /.row -->
 
